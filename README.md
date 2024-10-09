@@ -43,6 +43,7 @@ In conclusion, adding shunt capacitors in parallel to the loads at critical buse
 REFERENCES:
 
 (SpringerLink)https://link.springer.com/article/10.1007/s00202-022-01542-3
+
 (1Pratibha Bhor, 2018, p. 312)
 
 
