@@ -1,5 +1,5 @@
 # POWER-SYSTEMS-Simulations
-#This is just a pictorial repos for power system simulations using power world simulator.
+
 Case Study: Impact of Adding a Shunt Capacitor to Regulate Reactive Power in a Transmission System
 Abstract
 This case study explores the effects of adding shunt capacitors in parallel to the load at various buses of a transmission system. By compensating for reactive power, shunt capacitors improve system performance in terms of efficiency, line utility, power factor, voltage regulation, and line carrying capacity. This paper analyzes these aspects by focusing on technical parameters such as voltage stability, reactive power flow, and system reliability.
